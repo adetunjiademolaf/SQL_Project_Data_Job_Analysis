@@ -98,3 +98,32 @@ HAVING
 ORDER BY
         avg_salary DESC
 LIMIT 25
+
+
+
+SUMMARY OF INSIGHTS FROM THE MOST OPTIMAL SKILL FOR DATA ANALYST ROLES
+BASED ON AVERAGE SALARY OF THE TOP-PAYING SKILL AND TOP DEMANDED SKILL
+
+1. SQL, Excel, and Python are the top 3 most in-demand skills for Data Analysts, 
+   showing the strongest presence in job postings.
+
+2. Python, R, and Tableau lead in terms of higher average salaries, with 
+   Python reaching over $101K on average.
+
+3. Emerging tech skills like Snowflake, Azure, and Go offer premium pay 
+   ($110K–$115K) despite lower demand, highlighting niche expertise value.
+
+| Skill           | Demand 📊                                          | Avg Salary 💰 | Salary Level |
+| :-------------- | :------------------------------------------------- | :------------ | :----------- |
+| **SQL**         | ██████████████████████████████████████████████ 398 | **$97K**      | 🟩 High      |
+| **Excel**       | ███████████████████████████████ 256                | **$87K**      | 🟨 Mid       |
+| **Python**      | ██████████████████████████ 236                     | **$101K**     | 🟩 High      |
+| **Tableau**     | ████████████████████████ 230                       | **$99K**      | 🟩 High      |
+| **R**           | ████████████████ 148                               | **$100K**     | 🟩 High      |
+| **Power BI**    | ███████████ 110                                    | **$97K**      | 🟩 High      |
+| **SAS**         | ████████ 63                                        | **$99K**      | 🟩 High      |
+| **Looker**      | ████ 49                                            | **$104K**     | 🟩💎 Premium |
+| **Snowflake**   | ███ 37                                             | **$113K**     | 🟦 Elite     |
+| **Go (Golang)** | ███ 27                                             | **$115K**     | 🟦 Elite     |
+| **Hadoop**      | ██▌ 22                                             | **$113K**     | 🟦 Elite     |
+| **Confluence**  | █▌ 11                                              | **$114K**     | 🟦 Elite     |
