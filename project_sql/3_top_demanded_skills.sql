@@ -20,3 +20,27 @@ GROUP BY
             skills
 ORDER BY    skill_demand_count DESC
 LIMIT 5
+
+
+[
+  {
+    "skills": "sql",
+    "skill_demand_count": "7291"
+  },
+  {
+    "skills": "excel",
+    "skill_demand_count": "4611"
+  },
+  {
+    "skills": "python",
+    "skill_demand_count": "4330"
+  },
+  {
+    "skills": "tableau",
+    "skill_demand_count": "3745"
+  },
+  {
+    "skills": "power bi",
+    "skill_demand_count": "2609"
+  }
+]
